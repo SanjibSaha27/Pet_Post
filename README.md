@@ -56,3 +56,8 @@ At least one pet listing is visible with full details and image.
 Image uploads are working and confirmed to be stored in S3.
 GitHub repository includes source code, views, controllers, and setup files.
 A screenshot or video demonstrates the upload and listing workflow.
+
+
+## ⚠️ Usage Notice
+This project is for educational and portfolio purposes only.  
+Please do not copy or reuse this code without proper attribution.
